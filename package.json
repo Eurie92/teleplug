@@ -1,7 +1,7 @@
 {
-  "name": "telegram-auto-plugger",
+  "name": "teleplug",
   "version": "1.0.0",
-  "description": "24/7 Telegram Auto-Plugger and Message Forwarder with React + Vite Dashboard",
+  "description": "TelePlug: 24/7 Telegram Auto-Plugger and Smart Message Forwarder with React + Vite Dashboard",
   "main": "dist/server/index.js",
   "type": "module",
   "scripts": {

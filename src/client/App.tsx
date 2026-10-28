@@ -119,12 +119,12 @@ export const App: React.FC = () => {
             </div>
             <div>
               <h1 className="text-sm font-bold text-white tracking-tight flex items-center space-x-2">
-                <span>Auto-Plugger</span>
+                <span>TelePlug</span>
                 <span className="text-[10px] font-mono px-2 py-0.5 rounded-full bg-[#24A1DE]/20 text-[#24A1DE] font-normal">
                   v1.0
                 </span>
               </h1>
-              <p className="text-[10px] text-[#708499]">24/7 Telegram Marketing & Message Forwarder</p>
+              <p className="text-[10px] text-[#708499]">24/7 Telegram Auto-Plugger & Forwarder</p>
             </div>
           </div>
 

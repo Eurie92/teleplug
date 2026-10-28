@@ -1,4 +1,4 @@
-# 🤖 Telegram Auto-Plugger & Message Forwarder
+# ⚡ TelePlug: 24/7 Telegram Auto-Plugger & Message Forwarder
 
 A production-ready, fullstack 24/7 automation suite for Telegram marketing, auto-broadcasting, and real-time message forwarding with an integrated **React 19 + Vite** dashboard.
 
